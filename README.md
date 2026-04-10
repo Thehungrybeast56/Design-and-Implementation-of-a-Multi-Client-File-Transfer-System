@@ -20,5 +20,3 @@ The design of the project is inspired by research papers and networking resource
 ---
 ### 7. Key Networking Concepts
 The project demonstrates several important networking concepts including TCP protocol, sockets, client–server architecture, threading, port numbers, and buffering. These concepts form the foundation for building modern network applications.
----
-If you want, I can also make a **super short version (1 line each)** which is often required in **IEEE abstracts or presentation slides**.
