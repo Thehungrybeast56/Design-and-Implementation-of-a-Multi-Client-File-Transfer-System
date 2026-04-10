@@ -19,4 +19,4 @@ The system can be enhanced by adding features such as a graphical user interface
 The design of the project is inspired by research papers and networking resources related to file transfer systems and socket programming. These references explain concepts such as TCP reliability, multithreading, and client–server communication used in real-world applications.
 ---
 ### 7. Key Networking Concepts
-The project demonstrates several important networking concepts including TCP protocol, sockets, client–server architecture, threading, port numbers, and buffering. These concepts form the foundation for building modern network applications.
+**The project demonstrates several important networking concepts including TCP protocol, sockets, client–server architecture, threading, port numbers, and buffering. These concepts form the foundation for building modern network applications.**
