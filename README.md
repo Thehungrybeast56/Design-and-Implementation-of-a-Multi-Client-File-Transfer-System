@@ -1,5 +1,4 @@
 # Design-and-Implementation-of-a-Multi-Client-File-Transfer-System
-Here are **short descriptions (2–3 lines each)** for the paragraphs you shared in your report.
 ---
 ### 1. Project Objective
 This project focuses on designing and implementing a reliable file transfer system using Python socket programming and the TCP protocol. It demonstrates important networking concepts such as client–server architecture, multithreading, and reliable data transfer. The project helps students understand how real-world file sharing systems work.
